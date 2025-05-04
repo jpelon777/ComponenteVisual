@@ -3,11 +3,11 @@ Componente visual que sirve como apoyo visual para el usuario al momento de rell
 
 
 
-### Capturas del uso de nuestra libreria
+## 📸 Capturas de pantalla
 
-![](capturas/Capturadepantalla(1).png)
-![](capturas/Capturadepantalla(2).png)
-![](capturas/Capturadepantalla(3).png)
-![](capturas/Capturadepantalla(4).png)
-![](capturas/Capturadepantalla(5).png)
-![](capturas/Capturadepantalla(6).png)
+![Captura 1](capturas/Captura%20de%20pantalla%20(1).png)
+![Captura 2](capturas/Captura%20de%20pantalla%20(2).png)
+![Captura 3](capturas/Captura%20de%20pantalla%20(3).png)
+![Captura 4](capturas/Captura%20de%20pantalla%20(4).png)
+![Captura 5](capturas/Captura%20de%20pantalla%20(5).png)
+![Captura 6](capturas/Captura%20de%20pantalla%20(6).png)
